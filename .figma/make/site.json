@@ -1,0 +1,10 @@
+{
+  "description": "Explore Aethel’s connected healthcare ecosystem, see how clinics, care teams, and patients coordinate each visit, and discover its platforms and innovations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
